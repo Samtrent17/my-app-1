@@ -1,4 +1,5 @@
 import Image from "next/image";
+import face from "fonts/global.css";
 import styles from "./page.module.css";
 
 export default function Home() {
